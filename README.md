@@ -1,6 +1,8 @@
 # robbyblum.github.io
 Personal website
 
+[Projects](./projects.md)
+
 ## Wersonal pebsite
 
 Numbered list
