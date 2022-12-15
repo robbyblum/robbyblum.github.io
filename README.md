@@ -4,4 +4,8 @@ Hello and welcome to my Personal Website, which I have decided that I probably o
 
 ## [Publications](./publications.md)
 
+Papers I've published.
+
 ## [Code Projects](./projects.md)
+
+Code I've written or contributed to.
