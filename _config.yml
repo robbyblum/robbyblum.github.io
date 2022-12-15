@@ -2,7 +2,7 @@ title: Robert L. Blum Ph.D.
 email: robert.blum@yale.edu
 logo: /fifthbase_runs.png
 description: # this means to ignore newlines until "baseurl:"
-  Title, Employer
+  Robby Blum's personal/professional website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
